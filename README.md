@@ -1,6 +1,6 @@
-# Create T3 App
+# Create web3 T3 App
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`. Added [wagmi](https://wagmi.sh/), [ethers]() and [ConnectKit](https://docs.family.co/connectkit) for the web3 component.
 
 ## What's next? How do I make an app with this?
 
@@ -13,6 +13,8 @@ If you are not familiar with the different technologies used in this project, pl
 - [Prisma](https://prisma.io)
 - [Tailwind CSS](https://tailwindcss.com)
 - [tRPC](https://trpc.io)
+- [wagmi](https://wagmi.sh/)
+- [ConnectKit](https://docs.family.co/connectkit)
 
 ## Learn More
 
